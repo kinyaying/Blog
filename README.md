@@ -7,3 +7,4 @@
 
 有的时候积累很重要，时间具有复利的魔力。
   [test.md](https://github.com/kinyaying/blog/issues/1)
+[test1.md](https://github.com/kinyaying/blog/issues/2)

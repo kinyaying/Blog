@@ -10,3 +10,5 @@
 [test1.md](https://github.com/kinyaying/blog/issues/2)＜/br＞[test2.md](https://github.com/kinyaying/blog/issues/3)
 
 [test3.md](https://github.com/kinyaying/blog/issues/4)
+
+[带你从源码层面理解npm.md](https://github.com/kinyaying/blog/issues/5)  [create-react-app核心源码解读.md](https://github.com/kinyaying/blog/issues/6)
